@@ -1,2 +1,3 @@
 #!/bin/bash
-mktemp -d my_first_directory/tmp/
+mkdir -p 0x00-shell_basics/my_first_directory/tmp
+
