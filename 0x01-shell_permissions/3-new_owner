@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -c betty:root 3-new_owner
+chown -c hello:betty 3-new_owner
