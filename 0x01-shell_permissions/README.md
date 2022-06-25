@@ -2,3 +2,4 @@
 A script that prints the effective username of the current user is id -u -n
 A script that prints all the groups the current user is part of id -un
 A script that creates an empty file called hello is touch hello
+A script that adds execute permission to the owner of the file hello chmod u+x hello
